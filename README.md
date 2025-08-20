@@ -10,9 +10,9 @@ This repo focuses on learning the fundamentals of LangChain using **Ollama** for
   - Chat models
   - Memory
   - Tools
-  - RAG
-  - Agents
+  - RAG (will be implemented later)
+  - Agents (will be implemented later)
 - Local LLM support via [Ollama](https://ollama.ai/)
-- Organized structure for experiments and notebooks
+  
 
 ---
