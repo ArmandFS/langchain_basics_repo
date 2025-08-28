@@ -1,7 +1,7 @@
 # LangChain Basics Repo
 
 A Python repository full of practice code with the [LangChain](https://www.langchain.com/) AI framework.
-This repo focuses on learning the fundamentals of LangChain using **Ollama** for local LLMs (since OpenAI can get expensive 💸).
+This repo focuses on learning the fundamentals of LangChain using **Ollama** for local LLMs (since OpenAI can get quite expensive 💸).
 
 ---
 
