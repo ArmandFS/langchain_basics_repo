@@ -7,7 +7,7 @@ This repo focuses on learning the fundamentals of LangChain using **Ollama** for
 
 ## 🚀 Features
 - Practice scripts for:
-  - Chat models
+  - Chat Models
   - Memory
   - Tools
   - RAG (will be implemented later)
